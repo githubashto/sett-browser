@@ -1,0 +1,14 @@
+1.1.1:
+- Fixed the rendering errors of the characters: භු, භූ, ඟු, ඟූ, டி, டீ, ්‍රෛ, ්‍රේ
+- Changed the package name into dha.sett.
+- Embedded the SETT icon into the bubble image.
+
+1.1.0: 
+- Complex script rendering in transliterated Latin Script functionality added 
+to be compatible in Android 2.0.1 & 2.1 which dont support rendering in native scripts.
+- Preference added to Enable/Disable SETT Rendering Engine.
+- Preference added to select the rendering script.
+- Preference added to select the rendering refresh rate.
+
+1.0.0: 
+- First public release.
